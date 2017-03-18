@@ -1,0 +1,24 @@
+{
+  "name": "hapi-boilerplate",
+  "version": "0.0.1",
+  "description": "A hapi boilerplate for my api servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arwilczek90/hapi-boilerplate.git"
+  },
+  "keywords": [
+    "hapi",
+    "boilerplate",
+    "api"
+  ],
+  "author": "Adam R. Wilczek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arwilczek90/hapi-boilerplate/issues"
+  },
+  "homepage": "https://github.com/arwilczek90/hapi-boilerplate#readme"
+}
